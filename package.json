@@ -1,0 +1,16 @@
+{
+  "name": "nostr-teleport",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "nostr-tools": "^2.8.0",
+    "ws": "^8.18.0"
+  }
+}
